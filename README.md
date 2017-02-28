@@ -1,3 +1,3 @@
 # tinyPng
 tinyPng 
-官网慢的一B，拿来他的API结合gulp做一下小封装，效果还可以
+官网慢的可以，结合gulp做一下小封装，效果还可以。再也不用担心打不开<a href="https://tinypng.com/" target="_black"></a>了
