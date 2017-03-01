@@ -6,6 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "tinyPNG",
+    "tinyPng",
+    "gulp tinyPNG",
+    "tinyPng gulp"
+  ],
   "author": "humorHan",
   "license": "ISC",
   "devDependencies": {
