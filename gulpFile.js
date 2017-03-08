@@ -8,7 +8,6 @@ var tiny = require('gulp-tinypng');
 var vinylPaths = require('vinyl-paths');
 var del = require('del');
 
-
 /** 压缩图片
  * old做备份文件夹  src是图片源文件  dist存放压缩后的文件
  * 该插件会缓存上次压缩后的图片到old文件夹，然后会自动清空dist文件夹，然后把新压缩的文件放到dist文件夹
