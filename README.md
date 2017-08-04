@@ -8,5 +8,8 @@ a gulp plugin to compress png images--using <a href="https://tinypng.com">tinyPn
    find gulpFile.js about line 25 and replace my key.   
    thank you!
    
-## Put your images into src folder and execute the following command at the terminal
-   gulp bundle
+## Put your images into src folder
+   The compressed images will be in dist folder
+    
+## Execute the following command at the terminal
+   <code>gulp bundle</code>
