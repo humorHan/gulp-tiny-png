@@ -1,16 +1,23 @@
 {
-  "name": "tiny",
+  "name": "gulp-tiny-png",
   "version": "1.0.0",
-  "description": "",
+  "description": "a gulp plugin to compress png images",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "tinyPng",
+    "compress",
+    "img",
+    "png",
+    "jpg,png,jpeg"
+  ],
   "author": "humorHan",
   "license": "ISC",
   "devDependencies": {
     "del": "*",
-    "fs": "0.0.1-security",
+    "gulp-util": "^3.0.8",
     "gulp": "^3.9.1",
     "gulp-tinypng": "*",
     "vinyl-paths": "*"
